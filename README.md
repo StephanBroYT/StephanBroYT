@@ -14,7 +14,7 @@ Bespoke bots in private
 <table>
     <tr>
         <td>
-            <img src="https://github.com/user-attachments/assets/4f17aa8e-24d8-440c-aebc-364b11f30a87" alt="Asset Image">
+            <img src="https://raw.githubusercontent.com/StephanBroYT/StephanBroYT/refs/heads/main/366057785-4f17aa8e-24d8-440c-aebc-364b11f30a87.gif" alt="Asset Image">
         </td>
         <td>
             <img src="https://github-readme-stats.vercel.app/api?username=StephanBroYT&show_icons=true&theme=tokyonight" alt="GitHub Stats">
